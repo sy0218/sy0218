@@ -4,7 +4,7 @@
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap">
 
-<p style="font-family: 'Montserrat', sans-serif; font-size: 24px; color: #ff6f61; text-align: center; font-weight: bold;">
+<p style="font-family: 'Poppins', sans-serif; font-size: 24px; color: #ff6f61; text-align: center; font-weight: bold;">
   데이터의 잠재력을 현실로 만드는 데이터 엔지니어가 되는 것이 제 목표입니다
 </p>
 
