@@ -4,6 +4,9 @@
 <span style="font-family: 'Georgia', serif; font-size: 24px; color: #ff6f61; font-weight: bold;">
   데이터의 잠재력을 현실로 만드는 데이터 엔지니어가 되는 것이 제 목표입니다
 </span>
+<span style="font-family: 'Roboto', sans-serif; font-size: 24px; color: #ff6f61;">
+  데이터의 잠재력을 현실로 만드는 데이터 엔지니어가 되는 것이 제 목표입니다
+</span>
 
 
 ## 🚀 My Tech Stack
