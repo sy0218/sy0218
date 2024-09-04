@@ -1,9 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Syoung%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=100)
 
 ## 🎯 **목표**
+
 <span style="font-family: 'Roboto', sans-serif; font-size: 24px; color: #ff6f61;">
   데이터의 잠재력을 현실로 만드는 데이터 엔지니어가 되는 것이 제 목표입니다
 </span>
+
+
 
 
 ## 🚀 My Tech Stack
@@ -38,6 +41,9 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </p>
+
+
+
 
 ## 📫 Contact
 - **Email**: [sy02229@naver.com](mailto:sy02229@naver.com)
