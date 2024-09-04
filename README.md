@@ -1,12 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Syoung%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=100)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20🎯%20%20Goal%20&height=30&fontSize=30&fontColor=ffffff&textColor=ffffff&animation=fadeIn&fontAlignY=10" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20🎯%20%20My%20Goal%20&height=100&fontSize=40&fontColor=ffffff&textColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
 ## 🎯 **목표**
 <p align="center">
-  <strong>데이터의 잠재력을 현실로 만드는 데이터 엔지니어가 되는 것이 제 목표입니다</strong>
+  <strong>
+    <span style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #ff6f61;">
+      데이터의 잠재력을 현실로 만드는 데이터 엔지니어가 되는 것이 제 목표입니다
+    </span>
+  </strong>
 </p>
 
 ## 🚀 My Tech Stack
