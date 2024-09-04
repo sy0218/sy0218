@@ -1,11 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Syoung%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=100)
 
 ## 🎯 **목표**
-<p align="center">
-  <span style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 24px; color: #ff6f61;">
-    데이터의 잠재력을 현실로 만드는 데이터 엔지니어가 되는 것이 제 목표입니다
-  </span>
-</p>
+<span style="font-family: 'Georgia', serif; font-size: 24px; color: #ff6f61; font-weight: bold;">
+  데이터의 잠재력을 현실로 만드는 데이터 엔지니어가 되는 것이 제 목표입니다
+</span>
+
 
 ## 🚀 My Tech Stack
 
