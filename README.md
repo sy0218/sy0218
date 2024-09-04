@@ -2,12 +2,12 @@
 
 ## 🎯 **목표**
 
-<span style="font-family: 'Roboto', sans-serif; font-size: 24px; color: #ff6f61;">
+<p style="font-family: 'Roboto', sans-serif; font-size: 24px; color: #ff6f61; text-align: center;">
   데이터의 잠재력을 현실로 만드는 데이터 엔지니어가 되는 것이 제 목표입니다
-</span>
+</p>
 
 
-
+<br><br>
 
 ## 🚀 My Tech Stack
 
@@ -43,7 +43,7 @@
 </p>
 
 
-
+<br><br>
 
 ## 📫 Contact
 - **Email**: [sy02229@naver.com](mailto:sy02229@naver.com)
