@@ -50,6 +50,8 @@
 - **SQLD**
 - **리눅스마스터 2급**
 - **ADSP**
+- **Programmers-PCSQL(Lv3)**
+- **Programmers-PCCE(Lv3)**
 
 ## 📚 **어학**
 - **토익스피킹**: Intermediate High(140)
