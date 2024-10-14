@@ -32,13 +32,10 @@
 
 ### 📚 **Basic Technologies**
 <p>
-  <img src="https://img.shields.io/badge/Django-092D1F?style=flat&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
   <img src="https://img.shields.io/badge/TensorFlow-FB5B5F?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-E94F2F?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </p>
 
 
@@ -50,11 +47,11 @@
 - **SQLD**
 - **리눅스마스터 2급**
 - **ADSP**
-- **Programmers-PCSQL(Lv3)**
-- **Programmers-PCCE(Lv3)**
+- **프로그래머스-PCSQL(Lv3)**
+- **프로그래머스-PCCE(Lv3)**
 
 ## 📚 **어학**
-- **토익스피킹**: Intermediate High(140)
+- **토익스피킹: Intermediate High(140)**
 
 <br><br>
 
