@@ -58,7 +58,8 @@
 
 
 ## 🏆 **백준 티어**
-![Baekjoon Tier](https://solved.ac/api/v2/tier/solved.ac/baekjoon/syoung)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sy02229@naver.com)](https://solved.ac/sy02229@naver.com/)
+![Baekjoon Tier](https://solved.ac/api/v2/tier/solved.ac/baekjoon/sy02229@naver.com)
 
 
 <br><br>
