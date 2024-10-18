@@ -55,6 +55,14 @@
 
 <br><br>
 
+
+
+## 🏆 **백준 티어**
+![Baekjoon Tier](https://solved.ac/api/v2/tier/solved.ac/baekjoon/syoung)
+
+
+<br><br>
+
 ## 📫 Contact
 - **Email**: [sy02229@naver.com](mailto:sy02229@naver.com)
 - **Blog**: [https://sy02229.tistory.com](https://sy02229.tistory.com)
