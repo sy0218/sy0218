@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apache-hive&logoColor=black" alt="Hive"/>
   <img src="https://img.shields.io/badge/Apache%20Airflow-017B92?style=flat&logo=apache-airflow&logoColor=white" alt="Airflow"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Compose"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
 
 ### 📚 **Basic Technologies**
