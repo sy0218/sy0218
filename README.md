@@ -10,48 +10,60 @@
 
 ## 🚀 기술스택
 
-### 🧑‍💻 개발언어  
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell%20Script-121011?style=flat&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
-</p>
+### 🧑‍💻 개발언어
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Shell%20Script-121011?style=flat&logo=gnu-bash&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/></td>
+  </tr>
+</table>
 
 ---
 
-### 🏗 인프라  
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-</p>
+### 🏗 인프라
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/></td>
+    <td><img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat&logo=amazonaws&logoColor=white"/></td>
+  </tr>
+</table>
 
 ---
 
-### 📊 데이터 도구  
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CC99?style=flat&logo=apache-hadoop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apache-hive&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017B92?style=flat&logo=apache-airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white"/>
-</p>
+### 📊 데이터 도구
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Apache%20Hadoop-66CC99?style=flat&logo=apache-hadoop&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apache-hive&logoColor=black"/></td>
+    <td><img src="https://img.shields.io/badge/Apache%20Airflow-017B92?style=flat&logo=apache-airflow&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white"/></td>
+  </tr>
+</table>
 
 ---
 
-### 🗄 데이터베이스  
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-</p>
+### 🗄 데이터베이스
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/></td>
+  </tr>
+</table>
 
 ---
 
-### ⚙️ 이외 도구  
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-</p>
+### ⚙️ 이외 도구
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></td>
+  </tr>
+</table>
 
 ---
 
