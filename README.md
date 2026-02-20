@@ -28,10 +28,14 @@
 ---
 
 ### 📊 데이터 도구
-<div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center;">
+<!-- 1번째 줄 -->
+<div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center; margin-bottom:5px;">
   <img src="https://img.shields.io/badge/Apache%20Hadoop-66CC99?style=flat&logo=apache-hadoop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/>
+</div>
+<!-- 2번째 줄 -->
+<div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center;">
   <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apache-hive&logoColor=black"/>
   <img src="https://img.shields.io/badge/Apache%20Airflow-017B92?style=flat&logo=apache-airflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white"/>
