@@ -8,31 +8,49 @@
 
 <br><br>
 
-## 🚀 My Tech Stack
+## 🚀 기술스택
 
-### 🔝 **Top Tier Technologies**
+### 🧑‍💻 개발언어  
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell%20Script-121011?style=flat&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
-### 🔧 **Mid Tier Technologies**
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CC99?style=flat&logo=apache-hadoop&logoColor=white" alt="Hadoop"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" alt="Kafka"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white" alt="Spark"/>
-  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apache-hive&logoColor=black" alt="Hive"/>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017B92?style=flat&logo=apache-airflow&logoColor=white" alt="Airflow"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+---
 
-### 📚 **Basic Technologies**
+### 🏗 인프라  
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FB5B5F?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-E94F2F?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+</p>
+
+---
+
+### 📊 데이터 도구  
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CC99?style=flat&logo=apache-hadoop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apache-hive&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017B92?style=flat&logo=apache-airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white"/>
+</p>
+
+---
+
+### 🗄 데이터베이스  
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+</p>
+
+---
+
+### ⚙️ 이외 도구  
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
 
 
