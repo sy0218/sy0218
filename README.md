@@ -71,19 +71,31 @@
 - **프로그래머스-PCSQL(Lv3)**
 - **프로그래머스-PCCE(Lv3)**
 
-## 📚 **어학**
-- **토익스피킹: Intermediate High(140)**
-
 <br><br>
 
 
 
-## 🏆 **백준 티어**
+## 🏆 **알고리즘 티어**
+
+<div align="center">
+
+### 🥇 백준
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sy0218)](https://solved.ac/sy0218/)
 
+<br>
+
+### 🧠 해커랭스
+<a href="https://www.hackerrank.com/profile/sw444149">
+  <img src="https://img.shields.io/badge/HackerRank-sw444149-2EC866?style=for-the-badge&logo=hackerrank"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-1★-orange?style=for-the-badge"/>
+</a>
+
+</div>
+
 
 <br><br>
 
-## 📫 Contact
+## 📫 **Contact**
 - **Email**: [sy02229@naver.com](mailto:sy02229@naver.com)
 - **Blog**: [https://sy02229.tistory.com](https://sy02229.tistory.com)
