@@ -63,6 +63,7 @@
 <br><br>
 
 ## 📜 **자격증**
+- **Certified Kubernetes Administrator (CKA)**
 - **정보처리기사**
 - **리눅스마스터 1, 2급**
 - **빅데이터분석기사**
