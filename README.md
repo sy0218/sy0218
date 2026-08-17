@@ -1,10 +1,13 @@
+<!-- ⚠️ GitHub ID: sy0218 (다르면 전체 찾아바꾸기) -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Syoung's%20GitHub&fontSize=45&fontAlign=50&fontAlignY=35&desc=Data%20Engineer&descSize=18&descAlign=50&descAlignY=58&animation=twinkling" />
 
-[![Blog](https://img.shields.io/badge/Tech%20Blog-FF5A4A?style=for-the-badge&logo=rss&logoColor=white)](https://sy02229.tistory.com)
-[![Email](https://img.shields.io/badge/sy02229@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:sy02229@naver.com)
-[![solved.ac](https://img.shields.io/badge/solved.ac-sy0218-00A0E9?style=for-the-badge&logo=codeforces&logoColor=white)](https://solved.ac/profile/sy0218)
+<a href="https://sy02229.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-FF5A4A?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
+<a href="mailto:sy02229@naver.com"><img src="https://img.shields.io/badge/sy02229@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/sy0218?tab=followers"><img src="https://img.shields.io/github/followers/sy0218?style=for-the-badge&logo=github&labelColor=181717&color=555555" alt="Followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=sy0218&style=for-the-badge&color=6E5494&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -14,7 +17,7 @@
 
 > ### **"나만 운영할 수 있는 시스템"이 아니라,<br>"누가 와도 운영할 수 있는 시스템"을 만듭니다.**
 
-엔지니어링의 진짜 가치는 **최적화를 넘어, 인수인계 가능한 시스템**에 있다고 생각합니다.<br>
+엔지니어링의 진짜 가치는 **최적화를 넘어, 운영 가능한 시스템**에 있다고 생각합니다.<br>
 그래서 데이터 파이프라인과 인프라를 설계할 때 아래 세 가지를 기준으로 판단합니다.
 
 |  | 기준 | 스스로에게 던지는 질문 |
@@ -38,40 +41,55 @@
 
 <br>
 
+## 📊 GitHub Activity
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top" width="52%">
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=sy0218&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+    </td>
+    <td align="center" valign="top" width="48%">
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sy0218&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+<img width="450" src="https://streak-stats.demolab.com/?user=sy0218&theme=transparent&hide_border=true&date_format=[Y.]n.j&locale=ko" alt="Commit Streak" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sy0218&theme=github-compact&hide_border=true&area=true&radius=8&custom_title=Contribution%20Graph" alt="Activity Graph" />
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=sy0218&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
+
+</div>
+
+<br>
+
 ## 📜 자격증
 
 | 분야 | 자격증 |
 |:---|:---|
-| **Infra / Cloud** | Certified Kubernetes Administrator (CKA) · 리눅스마스터 1급 · 리눅스마스터 2급 |
-| **Data** | 빅데이터분석기사 · ADsP · SQLD |
-| **Software** | 정보처리기사 |
-| **Coding Test** | PCSQL Lv.3 · PCCE Lv.3 |
+| **Infra / Cloud** | `Certified Kubernetes Administrator (CKA)` / `리눅스마스터 1급` / `리눅스마스터 2급` |
+| **Data** | `빅데이터분석기사` / `ADsP` / `SQLD` |
+| **Software** | `정보처리기사` |
+| **Coding Test** | `PCSQL Lv.3` / `PCCE Lv.3` |
 
 <br>
 
 ## 🏆 Problem Solving
 
-<div align="center">
-
-<a href="https://solved.ac/profile/sy0218">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=sy0218" alt="solved.ac" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/sw444149">
-  <img src="https://img.shields.io/badge/HackerRank-sw444149-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-1★-FFB400?style=for-the-badge" alt="HackerRank Star" />
-</a>
-
-</div>
-
-<br>
-
-## 📈 GitHub Stats
-
-<!-- ⚠️ 아래 YOUR_GITHUB_ID 를 본인 GitHub 계정명으로 변경하세요 -->
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="middle" width="55%">
+      <a href="https://solved.ac/profile/sy0218"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=sy0218" height="150" alt="solved.ac" /></a>
+    </td>
+    <td align="center" valign="middle" width="45%">
+      <a href="https://www.hackerrank.com/profile/sw444149"><img src="https://img.shields.io/badge/HackerRank-sw444149-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+      <br/><br/>
+      <a href="https://www.hackerrank.com/profile/sw444149"><img src="https://img.shields.io/badge/Problem%20Solving-1★-FFB400?style=for-the-badge" alt="Problem Solving" /></a>
+      <br/><br/>
+      <a href="https://solved.ac/profile/sy0218"><img src="https://img.shields.io/badge/BOJ-sy0218-00A0E9?style=for-the-badge&logo=codeforces&logoColor=white" alt="BOJ" /></a>
+    </td>
+  </tr>
+</table>
