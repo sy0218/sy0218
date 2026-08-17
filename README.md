@@ -6,11 +6,11 @@
 
 <a href="https://sy02229.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-FF5A4A?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
 <a href="mailto:sy02229@naver.com"><img src="https://img.shields.io/badge/sy02229@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/sy0218?tab=followers"><img src="https://img.shields.io/github/followers/sy0218?style=for-the-badge&logo=github&labelColor=181717&color=555555" alt="Followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=sy0218&style=for-the-badge&color=6E5494&label=PROFILE+VIEWS" alt="Profile Views" />
+<a href="https://solved.ac/profile/sy0218"><img src="https://img.shields.io/badge/solved.ac-Platinum%20IV-00B4FC?style=for-the-badge&logo=codeforces&logoColor=white" alt="solved.ac" /></a>
 
 </div>
 
+---
 <br>
 
 ## 🎯 목표
@@ -26,6 +26,7 @@
 | 👀 | **관측성 (Observability)** | 장애가 났을 때 내가 아닌 사람도 원인을 추적할 수 있는가? |
 | 📖 | **인수인계 (Handover)** | 문서와 구조만 보고도 운영을 그대로 이어받을 수 있는가? |
 
+---
 <br>
 
 ## 🚀 기술 스택
@@ -39,32 +40,9 @@
 | **IaC** | ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) |
 | **CI/CD & GitOps** | ![GitLab CI](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
+---
 <br>
 
-## 📊 GitHub Activity
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" valign="top" width="52%">
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=sy0218&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-    </td>
-    <td align="center" valign="top" width="48%">
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sy0218&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-<img width="450" src="https://streak-stats.demolab.com/?user=sy0218&theme=transparent&hide_border=true&date_format=[Y.]n.j&locale=ko" alt="Commit Streak" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sy0218&theme=github-compact&hide_border=true&area=true&radius=8&custom_title=Contribution%20Graph" alt="Activity Graph" />
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=sy0218&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
-
-</div>
-
-<br>
 
 ## 📜 자격증
 
@@ -75,6 +53,7 @@
 | **Software** | `정보처리기사` |
 | **Coding Test** | `PCSQL Lv.3` / `PCCE Lv.3` |
 
+---
 <br>
 
 ## 🏆 Problem Solving
@@ -93,3 +72,5 @@
     </td>
   </tr>
 </table>
+
+---
